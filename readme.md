@@ -52,6 +52,49 @@ GuestSuite is a comprehensive platform designed to connect users with available 
 6. **Price Alerts:** Set up alerts for price changes or new listings matching criteria.
 7. **Chat Feature:** Real-time chat with advertisers for quick inquiries and responses.
 
+## Unique Apartment Features
+
+1. **Certified Quality Ratings:**
+
+   - **Certification Levels:** Apartments are rated based on facilities, security, and environmental quality with levels such as "Certified Premium," "Certified Standard," and "Certified Basic."
+   - **Certification Criteria:**
+     - **Facilities:** Quality of amenities, maintenance standards, and overall condition.
+     - **Security:** Measures like CCTV coverage, secure access systems, and on-site security personnel.
+     - **Environment:** Cleanliness, noise levels, green spaces, and overall living conditions.
+
+2. **Certification Badge:**
+
+   - **Visible Badge:** Apartments with certification are marked with a badge on listings.
+   - **Detailed Report:** Users can view a detailed report of the certification criteria and results.
+
+3. **Certification Process:**
+
+   - **On-Site Inspections:** Regular inspections and evaluations to ensure standards are met.
+   - **Resident Feedback:** Incorporates feedback from current residents for validation.
+
+4. **Continuous Improvement:**
+
+   - **Re-Certification:** Apartments are re-certified periodically to ensure ongoing quality.
+   - **Feedback Loop:** Residents can provide feedback on certification accuracy and suggest improvements.
+
+5. **Certification Benefits:**
+
+   - **Enhanced Trust:** Provides verified information about apartment quality and safety.
+   - **Competitive Edge:** Differentiates the platform by offering added assurance and credibility.
+
+6. **Certification Categories:**
+
+   - **Facility Certification:** Quality and range of amenities, maintenance, and cleanliness.
+   - **Security Certification:** Security measures and protocols.
+   - **Environmental Certification:** Living environment quality including noise, air quality, and green spaces.
+
+7. **Direct Moving Assistance Connection:**
+   - **Service Integration:** Directly connect with moving assistance professionals through the platform.
+   - **Service Directory:** Access a directory of moving companies and professionals, complete with reviews, ratings, and contact details.
+   - **Booking System:** Request quotes, schedule moving services, and manage the moving process within the platform.
+   - **In-App Communication:** Facilitate seamless communication between users and moving service providers through in-app messaging.
+   - **Moving Tips and Resources:** Provide users with helpful resources such as packing tips, moving checklists, and guides.
+
 ## Models
 
 ### User
